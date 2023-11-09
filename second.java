@@ -21,9 +21,8 @@ public class second {
 
         }
 
-     
-
         System.out.println(words);
+        System.out.println("hello");
     }
     
 }
